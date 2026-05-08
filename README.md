@@ -1,16 +1,18 @@
-## Hi there 👋
+## Mauricio Rory · Desenvolvedor Web
 
-<!--
-**roryfield/roryfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Construo sistemas digitais completos para pequenos negócios —
+do design ao deploy, passando pelo banco de dados.
 
-Here are some ideas to get you started:
+Fundador da **VOIDZONE**, estúdio independente de produtos digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack atual:**
+HTML · CSS · JavaScript · Node.js · Express · PostgreSQL · Cloudinary · Railway · Figma
+
+**Projeto em destaque:**
+→ [Trip Visuals Wear](https://github.com/roryfield/tripvisuals) —
+Sistema de catálogo digital + painel admin completo para marca de streetwear.
+Em produção em https://web-production-56d80f.up.railway.app
+
+📍 Recife, Brasil · Disponível para freela e projetos remotos
+📩 [LinkedIn](https://linkedin.com/in/mauricio-rory)
+```

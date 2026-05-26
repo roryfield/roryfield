@@ -45,4 +45,4 @@ Sou um profissional de perfil híbrido, unindo estratégia de negócios e desenv
 ### 📬 Como me encontrar
 
 <a href="https://www.linkedin.com/in/mauricio-rory/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:seu-email@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:mroryfield@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

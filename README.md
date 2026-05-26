@@ -3,6 +3,7 @@
 ### Designer de Produtos Digitais | Business & Technology
 
 Sou um profissional de perfil híbrido, unindo estratégia de negócios e desenvolvimento tecnológico. Formado em **Administração** e **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência de vendas internacionais na bagagem, busco criar soluções completas que façam sentido tanto na experiência do usuário quanto na viabilidade técnica e comercial.
+
 ---
 
 ### 🚀 Sobre mim
@@ -29,6 +30,16 @@ Sou um profissional de perfil híbrido, unindo estratégia de negócios e desenv
 </div>
 
 <br>
+
+---
+
+### 🏆 Projetos em Destaque
+
+#### 👕 [Trip Visuals Wear - Plataforma de E-commerce](#) <!-- Substitua o # pelo link do seu repositório -->
+Desenvolvimento de uma solução completa (End-to-End) para a loja de vestuário Trip Visuals Wear. O projeto reflete minha visão híbrida de negócios e tecnologia, unindo uma interface atraente com um sistema robusto.
+- **Front-end:** Criação da Landing Page e interface da loja utilizando HTML, CSS e JavaScript.
+- **Back-end:** Estruturação da lógica do servidor e gerenciamento de dados com **Node.js** e **SQLite**.
+- **Impacto:** Foco em design de produto, garantindo uma boa experiência de navegação para o usuário e eficiência operacional para a marca.
 
 ---
 
